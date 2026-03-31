@@ -1,2 +1,16 @@
 Hello al
 at all l
+🔹 3️⃣ Authentication (Important ⚠️)
+
+GitHub does NOT allow passwords anymore
+You must use a Personal Access Token (PAT)
+
+4️⃣ Generate Personal Access Token
+Go to GitHub → Settings
+Developer Settings → Personal Access Tokens
+Click Generate Token (Classic)
+Select:
+✅ repo
+✅ workflow (optional)
+
+👉 Copy the token (you won’t see it again)
